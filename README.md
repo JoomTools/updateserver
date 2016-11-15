@@ -1,1 +1,1 @@
-updateserver
+JoomTools Extensions-Updateserver

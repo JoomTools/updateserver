@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>JT-Cookieinfo</name>
+		<name>PLG_SYSTEM_JTCOOKIEINFO</name>
 		<description></description>
 		<element>jtcookieinfo</element>
 		<type>plugin</type>
